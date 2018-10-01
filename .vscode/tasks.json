@@ -8,7 +8,9 @@
             "type": "shell",
             "command": "gcc.exe",
             "args": [
-                ".\\Chapter_1\\Tasks\\1_4_example_with_pointers.c",
+                //".\\Chapter_1\\Tasks\\1_4_example_with_pointers.c",
+                ".\\Chapter_1\\Com_checker\\main.c", 
+                ".\\Chapter_1\\Com_checker\\con_by_serial.c",
                 "-o",
                 ".\\exe\\cur_programm.exe"
             ],
