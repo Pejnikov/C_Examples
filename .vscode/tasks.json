@@ -8,7 +8,7 @@
             "type": "shell",
             "command": "gcc.exe",
             "args": [
-                ".\\Chapter_1\\Tasks\\1_3_header_for_fahr.c",
+                ".\\Chapter_1\\Tasks\\1_4_example_with_pointers.c",
                 "-o",
                 ".\\exe\\cur_programm.exe"
             ],
